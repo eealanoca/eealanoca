@@ -75,7 +75,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![nVIDIA](https://img.shields.io/badge/-nVIDIA-000000?style=flat&logo=nvidia)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 ![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros)
