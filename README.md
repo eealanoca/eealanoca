@@ -4,6 +4,7 @@
 
 ### Hi there, I am Elmer E. Alanoca. 👋
 
+[![Telegram Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/EEAlanoca)](https://t.me/EEAlanoca)
 [![Facebook Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/eealanoca/)](https://www.facebook.com/eealanoca)
 [![Twitter Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eealanoca/)](https://www.twitter.com/eealanoca)
 
