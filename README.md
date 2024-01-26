@@ -1,8 +1,11 @@
-<img align="right" src="developer.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" src="coding_night.gif" alt="Coder GIF" width="430" height="250">
 
 
 
-### Hi there, I am Elmer E. Alanoca. 👋
+### Greetings! I'm Elmer E. Alanoca. 👋
+
+Welcome to my space dedicated to exploring the intersections of physics and engineering. Here, I invite you to delve into my professional journey, where the passion for problem-solving converges with scientific rigor.
+
 
 [![Telegram Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/EEAlanoca)](https://t.me/EEAlanoca)
 [![Facebook Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/eealanoca/)](https://www.facebook.com/eealanoca)
@@ -12,20 +15,22 @@
 [![Gmail Badge](https://img.shields.io/badge/-eealanoca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eealanoca@gmail.com)](mailto:eealanoca@gmail.com)
 
 
-- 🎯 Portfolio website: [Portfolio](https://eealanoca.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- 🎯 **Portfolio website:** [Portfolio](https://eealanoca.github.io/)
+
+-  ⚡ **Personal Approach:** "Transforming abstract concepts into tangible solutions is my daily drive. In the realm of physics and engineering, I find beauty in simplicity and elegance." 🚀
 
 💻 **Things I love**
 - Mechatronics Engineering ✍️
 - Robotics
-- Nuclear Fusion and Plasma Physics
-- Control Theory
+- Nuclear Fusion and Plasma Physics 🤓
+- Nuclear Engineering
+- Control Theory 😀
 - Machine Learning 🧐
-- Deep Learning
+- Deep Learning 😎
 - Deep Reinforcement Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Computer Vision
 - Natural Language Processing
-- Data Science 😬
+- Data Science
 - Neuroscience
 
 
@@ -37,6 +42,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=Matlab)
+![Python](https://img.shields.io/badge/-LabView-000000?style=flat&logo=labview)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B)
@@ -46,6 +52,19 @@
 ![Octave](https://img.shields.io/badge/-Octave-000000?style=flat&logo=Octave)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
+
+![Python](https://img.shields.io/badge/-Geant-000000?style=flat&logo=geant)
+![Python](https://img.shields.io/badge/-Root-000000?style=flat&logo=root)
+![Python](https://img.shields.io/badge/-Qiskit-000000?style=flat&logo=qiskit)
+![Python](https://img.shields.io/badge/-Wolfram_Language-000000?style=flat&logo=wolframlanguage)
+![Python](https://img.shields.io/badge/-FEniCS-000000?style=flat&logo=fenics)
+![Python](https://img.shields.io/badge/-XGC-000000?style=flat&logo=xgc)
+![Python](https://img.shields.io/badge/-OpenMC-000000?style=flat&logo=openmc)
+![Python](https://img.shields.io/badge/-MCNP-000000?style=flat&logo=mcnp)
+![Python](https://img.shields.io/badge/-MOOSE-000000?style=flat&logo=moose)
+![Python](https://img.shields.io/badge/-Modelica-000000?style=flat&logo=modelica)
+![Python](https://img.shields.io/badge/-OpenFOAM-000000?style=flat&logo=openfoam)
+![Python](https://img.shields.io/badge/-JAX-000000?style=flat&logo=jax)
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
@@ -60,6 +79,7 @@
 ![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=scipy)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn)
 ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=flat&logo=PySpark)
+![nVIDIA](https://img.shields.io/badge/-ONNX-000000?style=flat&logo=onnx)
 ![nVIDIA](https://img.shields.io/badge/-nVIDIA-000000?style=flat&logo=nvidia)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
@@ -80,6 +100,9 @@
 ![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros)
 ![Gimp](https://img.shields.io/badge/-Gimp-000000?style=flat&logo=gimp)
 ![Arduino](https://img.shields.io/badge/-arduino-000000?style=flat&logo=arduino)
+![Python](https://img.shields.io/badge/-Eagle-000000?style=flat&logo=eagle)
+![Python](https://img.shields.io/badge/-Proteus-000000?style=flat&logo=proteus)
+![Python](https://img.shields.io/badge/-Eagle-000000?style=flat&logo=mplab)
 
 ![Power Bi](https://img.shields.io/badge/-Power_Bi-000000?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableu)
