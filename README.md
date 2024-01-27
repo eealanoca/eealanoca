@@ -1,4 +1,4 @@
-<img align="right" src="coding_night.gif" alt="Coder GIF" width="430" height="250">
+<img align="right" src="fusion_reactor_sim.webp" alt="Coder GIF" width="430" height="250">
 
 
 
@@ -102,7 +102,7 @@ Welcome to my space dedicated to exploring the intersections of physics and engi
 ![Arduino](https://img.shields.io/badge/-arduino-000000?style=flat&logo=arduino)
 ![Python](https://img.shields.io/badge/-Eagle-000000?style=flat&logo=eagle)
 ![Python](https://img.shields.io/badge/-Proteus-000000?style=flat&logo=proteus)
-![Python](https://img.shields.io/badge/-Eagle-000000?style=flat&logo=mplab)
+![Python](https://img.shields.io/badge/-MPLAB-000000?style=flat&logo=mplab)
 
 ![Power Bi](https://img.shields.io/badge/-Power_Bi-000000?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableu)
