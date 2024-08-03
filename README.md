@@ -8,7 +8,7 @@ Welcome to my space dedicated to exploring the intersections of physics and engi
 
 
 [![Telegram Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/EEAlanoca)](https://t.me/EEAlanoca)
-[![Twitter Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eealanoca/)](https://www.twitter.com/eealanoca)
+[![Twitter Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=x&logoColor=white&link=https://www.x.com/eealanoca/)](https://www.x.com/eealanoca)
 
 [![Linkedin Badge](https://img.shields.io/badge/-eealanoca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eealanoca/)](https://www.linkedin.com/in/eealanoca)
 [![Gmail Badge](https://img.shields.io/badge/-eealanoca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eealanoca@gmail.com)](mailto:eealanoca@gmail.com)
