@@ -2,7 +2,7 @@
 
 
 
-### Greetings!. 👋
+### Greetings! 👋
 
 Welcome to my space dedicated to exploring the intersections of physics and engineering. Here, I invite you to delve into my professional journey, where the passion for problem-solving converges with scientific rigor.
 
