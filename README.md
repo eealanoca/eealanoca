@@ -33,9 +33,8 @@ Welcome to my space dedicated to exploring the intersections of physics and engi
 - Neuroscience
 
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=eealanoca&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+    <a href="https://github.com/stats-organization/github-stats-extended" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-stats-extended.vercel.app/api?username=eealanoca&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     
 🛠**Tech Stack**
 
@@ -104,7 +103,7 @@ Welcome to my space dedicated to exploring the intersections of physics and engi
 ![Python](https://img.shields.io/badge/-MPLAB-000000?style=flat&logo=mplab)
 
 ![Power Bi](https://img.shields.io/badge/-Power_Bi-000000?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableu)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau)
 
 <div align="center">
     <h4 align="center"></h4>
